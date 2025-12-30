@@ -130,19 +130,6 @@ The application uses an in-memory H2 database that resets on restart. For produc
 ### Port Configuration
 - Backend: `8081` (configurable in `application.properties`)
 - Frontend: `3000` (configurable in `package.json`)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
 ## 📝 License
 
 This project is licensed under the MIT License.
-
-## 📞 Support
-
-For support and questions, please open an issue in the repository.
